@@ -1,0 +1,66 @@
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\appsettings.json
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\D01_Task.exe
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\D01_Task.deps.json
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\D01_Task.runtimeconfig.json
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\D01_Task.dll
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\D01_Task.pdb
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.csproj.AssemblyReference.cache
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.AssemblyInfoInputs.cache
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.AssemblyInfo.cs
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.csproj.CoreCompileInputs.cache
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets\msbuild.D01_Task.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets\msbuild.build.D01_Task.props
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.D01_Task.props
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.D01_Task.props
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\scopedcss\bundle\D01_Task.styles.css
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.csproj.CopyComplete
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.dll
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\refint\D01_Task.dll
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.pdb
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.genruntimeconfig.cache
+D:\ITI 2022-2023\API (Jamal)\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\ref\D01_Task.dll
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.csproj.AssemblyReference.cache
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.AssemblyInfoInputs.cache
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.AssemblyInfo.cs
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.csproj.CoreCompileInputs.cache
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.MvcApplicationPartsAssemblyInfo.cs
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.MvcApplicationPartsAssemblyInfo.cache
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.dll
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\refint\D01_Task.dll
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.pdb
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\appsettings.Development.json
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\appsettings.json
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\D01_Task.exe
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\D01_Task.deps.json
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\D01_Task.runtimeconfig.json
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\D01_Task.dll
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\D01_Task.pdb
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Tasks\D01_Task\D01_Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets\msbuild.D01_Task.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets\msbuild.build.D01_Task.props
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.D01_Task.props
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.D01_Task.props
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets.build.json
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\staticwebassets.development.json
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\scopedcss\bundle\D01_Task.styles.css
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.csproj.CopyComplete
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\D01_Task.genruntimeconfig.cache
+E:\Tasks\D01_Task\D01_Task\obj\Debug\net7.0\ref\D01_Task.dll
