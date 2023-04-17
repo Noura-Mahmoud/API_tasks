@@ -1,0 +1,17 @@
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\bin\Debug\net7.0\TicketsDevDept.BLL.deps.json
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\bin\Debug\net7.0\TicketsDevDept.BLL.runtimeconfig.json
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\bin\Debug\net7.0\TicketsDevDept.BLL.dll
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\bin\Debug\net7.0\TicketsDevDept.BLL.pdb
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\bin\Debug\net7.0\TicketsDevDept.DAL.dll
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\bin\Debug\net7.0\TicketsDevDept.DAL.pdb
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\TicketsDevDept.BLL.csproj.AssemblyReference.cache
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\TicketsDevDept.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\TicketsDevDept.BLL.AssemblyInfoInputs.cache
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\TicketsDevDept.BLL.AssemblyInfo.cs
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\TicketsDevDept.BLL.csproj.CoreCompileInputs.cache
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\TicketsDevDept.BLL.csproj.CopyComplete
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\TicketsDevDept.BLL.dll
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\refint\TicketsDevDept.BLL.dll
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\TicketsDevDept.BLL.pdb
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\TicketsDevDept.BLL.genruntimeconfig.cache
+F:\ITI_mobile cross\API2\Day2\lab2\TicketsDevDept.BLL\obj\Debug\net7.0\ref\TicketsDevDept.BLL.dll
