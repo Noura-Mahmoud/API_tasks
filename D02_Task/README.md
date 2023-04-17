@@ -1,3 +1,5 @@
+## Main first steps
+
 1. Create *Asp.net core webApi* project 
 2. Download packages of EF Core, tools, design and sql provider
 3. Add *Data* folder that has folder for models and another for the *DbContext*
