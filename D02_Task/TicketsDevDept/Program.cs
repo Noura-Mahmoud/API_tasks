@@ -33,11 +33,6 @@ namespace TicketsDevDept
             #region Manager
             builder.Services.AddScoped<ITicketsManager, TicketsManager>();
             builder.Services.AddScoped<IDepartmentsManager, DepartmentsManager>();
-            //builder.Services.AddScoped<ITicketsManager, TicketsManager>(serviceProvider =>
-            //{
-            //    var ticketsRepo = serviceProvider.GetService<ITicketsRepo>();
-            //    return new TicketsManager(ticketsRepo);
-            //});
             #endregion
 
             var app = builder.Build();

@@ -10,6 +10,6 @@ namespace TicketsDevDept.DAL
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
-        public virtual ICollection<Ticket> Tickets { get; set; } = new HashSet<Ticket>();
+        public ICollection<Ticket> Tickets { get; set; } = new HashSet<Ticket>();
     }
 }

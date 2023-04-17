@@ -25,6 +25,7 @@ namespace TicketsDevDept.BLL
             ticket.Id = newTicket.Id;
             ticket.Title = newTicket.Title;
             ticket.Description = newTicket.Description;
+            ticket.DepartmentId = newTicket.DepartmentId;
             ticketsRepo.Add(ticket);
         }
 
@@ -70,8 +71,6 @@ namespace TicketsDevDept.BLL
             if (ticket == null)
                 return;
             ticket.Developers.Clear();
-            //ticket.Developers = new HashSet<Developer>();
-            //ticketsRepo.SaveChanges();
             //Get New Devs From Db
             ICollection<Developer> newDevs =  developersRepo.GetByDevsIds(ticketsWithDevs.DevelopersIds).ToList();
             //Assign New Devs to Ticket

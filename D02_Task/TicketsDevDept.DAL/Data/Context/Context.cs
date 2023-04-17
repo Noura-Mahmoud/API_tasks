@@ -36,10 +36,10 @@ namespace TicketsDevDept.DAL
                 """) ?? new();
             var tickets = JsonSerializer.Deserialize<List<Ticket>>("""
                 [  {    "Id": 1,    "Description": "Cannot access email",    "Title": "Email issue",    "DepartmentId": 3  },
-                {    "Id": 2,    "Description": "Printer not working",    "Title": "Printer issue",    "DepartmentId": 3  },
+                {    "Id": 2,    "Description": "Printer not working",    "Title": "Printer issue",    "DepartmentId": 2  },
                 {    "Id": 3,    "Description": "Application crashing",    "Title": "Application issue",    "DepartmentId": 3  },
                 {    "Id": 4,    "Description": "New employee onboarding",    "Title": "Onboarding request",    "DepartmentId": 4  },
-                {    "Id": 5,    "Description": "Need access to specific folder",    "Title": "Access request",    "DepartmentId": 3  }]
+                {    "Id": 5,    "Description": "Need access to specific folder",    "Title": "Access request",    "DepartmentId": 1  }]
                 """) ?? new();
             modelBuilder.Entity<Developer>().HasData(developers);
             modelBuilder.Entity<Department>().HasData(departments);

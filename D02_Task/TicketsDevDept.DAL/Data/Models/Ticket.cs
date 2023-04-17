@@ -12,7 +12,7 @@ namespace TicketsDevDept.DAL
         public string Description { get; set; } = string.Empty;
         public string Title { get; set; } = string.Empty;
         public int? DepartmentId { get; set; }
-        public virtual Department? Department { get; set; }
-        public virtual ICollection<Developer> Developers { get; set; } = new HashSet<Developer>();
+        public Department? Department { get; set; }
+        public ICollection<Developer> Developers { get; set; } = new HashSet<Developer>();
     }
 }

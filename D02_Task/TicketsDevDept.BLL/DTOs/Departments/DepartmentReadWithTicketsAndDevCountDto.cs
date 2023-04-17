@@ -10,6 +10,6 @@ namespace TicketsDevDept.BLL
     {
         public int Id { get; init; }
         public string Name { get; init; } = string.Empty;
-        public IEnumerable<TicketWithDevCountDto> Tickets = new List<TicketWithDevCountDto>();
+        public IEnumerable<TicketWithDevCountDto> Tickets { get; init; } = new List<TicketWithDevCountDto>();
     }
 }

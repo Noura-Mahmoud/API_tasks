@@ -17,19 +17,31 @@ namespace TicketsDevDept.BLL
         }
         public DepartmentReadWithTicketsAndDevCountDto? GetDeptWithTicketsAndDevs(int id)
         {
-            var DeptFromDb = departmentsRepo.GetDeptDetailsWithTicketsAndDevCount(id);
-            if (DeptFromDb == null)
-                return null;
-            else
+            //var DeptFromDb = departmentsRepo.GetDeptDetailsWithTicketsAndDevCount(id);
+            //if (DeptFromDb == null)
+            //    return null;
+            //else
+            //{
+            //    var Dept = new DepartmentReadWithTicketsAndDevCountDto {
+            //        Id = DeptFromDb.Id,
+            //        Name = DeptFromDb.Name,
+            //        Tickets = DeptFromDb.Tickets.Select(t => new TicketWithDevCountDto(
+            //            t.Id, t.Description, t.Developers.Count())).ToHashSet()
+            //    };
+            //    return Dept;
+            //}
+
+            Department? deptFromDb = departmentsRepo.GetDeptDetailsWithTicketsAndDevCount(id);
+            if (deptFromDb == null) { return null; }
+            return new DepartmentReadWithTicketsAndDevCountDto
             {
-                var Dept = new DepartmentReadWithTicketsAndDevCountDto {
-                    Id = DeptFromDb.Id,
-                    Name = DeptFromDb.Name,
-                    Tickets = DeptFromDb.Tickets.Select(t => new TicketWithDevCountDto(
-                        t.Id, t.Description, t.Developers.Count())).ToHashSet()
-                };
-                return Dept;
-            }
+                Id = deptFromDb.Id,
+                Name = deptFromDb.Name,
+                Tickets = deptFromDb.Tickets.Select(
+                    t => new TicketWithDevCountDto
+                    ( t.Id, t.Description, t.Developers.Count() )).ToHashSet()
+            };
+
         }
     }
 }
